@@ -70,7 +70,7 @@ class Demo
 
 
        int x = 8;
-         int y = 7;
+         int y = 7; //yyyyyyyyyyyyyy
          int z = 9;
 
 
